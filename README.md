@@ -1,0 +1,1 @@
+# TKT4201-Konstruksjonsdynamikk
